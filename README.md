@@ -19,3 +19,7 @@ Pressing `cmd+ctrl+space` opens up the emoji pop up.
 ### Adding emojis to PR title
 You guessed it!  
 `cmd+ctrl+space`
+
+![image](https://user-images.githubusercontent.com/4782871/27152696-8d48e462-5103-11e7-9dab-3a51f63928ff.png)
+
+
