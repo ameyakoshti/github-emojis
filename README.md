@@ -1,5 +1,6 @@
 # github-emojis
 
+### github emoji commit systems
 ✨ New feature  
 🛠 Refactor  
 🔧 Config/tooling  
@@ -11,6 +12,11 @@
 💅 Formatting  
 🤖 CI/Automation  
 
-### Easiet way to adding emoji to commits:
+### Adding emoji to commits
 git commit -am 'using emojis in commits <cmd+ctrl+space>'  
 Pressing `cmd+ctrl+space` opens up the emoji pop up.
+
+### Adding emojis to PR title
+You guessed it!  
+`cmd+ctrl+space`
+
