@@ -25,4 +25,4 @@ You guessed it!
 ![image](https://user-images.githubusercontent.com/4782871/27152696-8d48e462-5103-11e7-9dab-3a51f63928ff.png)
 
 
-#### Thanks to Mark Brouch(@markbrouch) for this new world! 
+#### Thanks to [Mark Brouch](https://github.com/markbrouch) for this new world! 
