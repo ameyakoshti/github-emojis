@@ -16,6 +16,8 @@
 git commit -am 'using emojis in commits <cmd+ctrl+space>'  
 Pressing `cmd+ctrl+space` opens up the emoji pop up.
 
+![image](https://user-images.githubusercontent.com/4782871/27152784-d6d26cfc-5103-11e7-80b7-5f8c2d902c4a.png)
+
 ### Adding emojis to PR title
 You guessed it!  
 `cmd+ctrl+space`
