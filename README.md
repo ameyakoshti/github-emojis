@@ -12,5 +12,5 @@
 🤖 CI/Automation  
 
 ### Easiet way to adding emoji to commits:
-git commit -am 'using emojis in commits <cmd+ctrl+space>'
-pressing `cmd+ctrl+space` opens up the emoji pop up.
+git commit -am 'using emojis in commits <cmd+ctrl+space>'  
+Pressing `cmd+ctrl+space` opens up the emoji pop up.
